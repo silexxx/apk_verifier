@@ -15,7 +15,8 @@ import awesome_streamlit as ast
 import pyrebase
 import os
 
-
+#enter the firebase config here
+config=" "
 
 
 username_text = st.text_input('Enter username:') 
